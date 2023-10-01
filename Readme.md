@@ -1,4 +1,4 @@
-# <h1 align = "center"> 💹 E-commerce App 💹 </h1>
+# <h1 align = "center"> 💹 E-commerce App Using MySQL 💹 </h1>
 ___ 
 <p align="center">
 <a href="Java url">
