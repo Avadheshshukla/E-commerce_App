@@ -1,4 +1,4 @@
-# <h1 align = "center"> 🎓Ecommerce App🎓 </h1>
+# <h1 align = "center"> 💹 Ecommerce App 💹 </h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -44,7 +44,7 @@ ___
 <!-- Model --->
 
 ## Models Key Features🔑
-### 1 -> User Model
+### 1 -> User Model👤
     Attribute's
        -> d:integer
        -> name:string
@@ -95,7 +95,7 @@ ___
          -> Add users
          -> Add products
          -> Add Address
-         -> Place an order (Create Order) using userId,     productId, addressId
+         -> Place an order (Create Order) using userId, productId, addressId.
          -> Get order by order id
          -> Get user by userid
          -> Get all products
