@@ -46,7 +46,7 @@ ___
 ## Models Key Features🔑
 ### 1 -> User Model👤
     Attribute's
-       -> d:integer
+       -> id:integer
        -> name:string
        -> email:string
        -> password:string
