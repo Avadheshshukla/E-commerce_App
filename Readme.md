@@ -63,7 +63,7 @@ ___
        -> state:string
        -> UserID : foreign key mapping
 
- ### 1 -> Product Model
+ ### 3 -> Product Model
     Attribute's
        -> id:integer 
        -> name:string
@@ -72,7 +72,7 @@ ___
        -> category:string
        -> brand:string
 
-### 2 -> Order Model
+### 4 -> Order Model
     Attributes's
       -> id:integer
       -> userID:integer (foreign key mapping)
